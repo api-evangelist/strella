@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+source: https://www.strella.io/ (footer Trust Center link)
+url: https://app.vanta.com/strella/trust/0fey4w8vl0bodzyb950vh
+platform: Vanta
+certifications: []
+notes: >-
+  Strella links a hosted Vanta Trust Center from the site footer. The page is a
+  client-rendered SPA, so specific named certifications (e.g. SOC 2, ISO 27001)
+  could not be extracted verbatim and are intentionally left empty rather than
+  assumed. Revisit to capture named frameworks once the page is retrievable.
+evidence:
+  - source: https://www.strella.io/
+    kind: footer-link
+    detail: Trust Center link to Vanta-hosted trust page

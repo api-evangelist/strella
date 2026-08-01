@@ -1,0 +1,35 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.strella.io/changelog
+scheme: date-based (M.D.YY)
+scope: product
+current: '7.10.26'
+notes: >-
+  Product changelog for the Strella AI customer-research platform. Dated,
+  release-style entries; no versioned API surface is published. Recent window
+  captured below.
+entries:
+  - version: '7.10.26'
+    date: '2026-07-10'
+    highlights: Resume-by-email for returning participants, redesigned Project Settings, sessions renamed to interviews.
+  - version: '7.3.26'
+    date: '2026-07-03'
+    highlights: Multiple-answer section-logic conditions, reliable mobile quota enforcement, fixed images in mobile media questions.
+  - version: '6.26.26'
+    date: '2026-06-26'
+    highlights: Automatic pass/fail task grading, in-call live prototype/website interaction, fixed fullscreen playback, variant names in Analysis filters.
+  - version: '6.19.26'
+    date: '2026-06-19'
+    highlights: Cleaner analysis excluding abandoned panel sessions, unified project sharing, synced video/transcript scrolling, streamlined navigation header.
+  - version: '6.12.26'
+    date: '2026-06-12'
+    highlights: Bulk highlight-reel downloads, AI Chat history filters, exact participant counts and bulk invites, audit logs for org admins.
+  - version: '6.5.26'
+    date: '2026-06-05'
+    highlights: Full highlight-reel editor in AI Chat, new filters and saved views, full-page Excel exports, automatic tool selection in AI Chat.
+  - version: '5.29.26'
+    date: '2026-05-29'
+    highlights: New Rating-scale question type, hide sessions from analysis, AI Chat project filtering by workspace.
+  - version: '5.22.26'
+    date: '2026-05-22'
+    highlights: Automatic MNPI checks in Analysis, more consistent filtering and sorting, unified popover for table columns and custom fields.
